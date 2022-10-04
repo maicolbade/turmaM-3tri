@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(202, 202, 236);
+    text-align: center;
+    }
+
+.topicos2 {
+    background-color: rgb(81, 81, 240);
+}
+
+    #image3 {
+        width: 30%;
+        
+    }
+
+    #image-principal {
+        width: 30%;
+        margin: 01%;
+        border: double 10px rgb(194, 4, 137);
+        }
+
+h1 {
+    text-align: center;
+    color:rgb(3, 3, 94);
+    font-size: 65;
+    }
+
+h2 {text-align: center;
+    color: blueviolet;
+}
+
+h3 {
+    font-size: 35px;
+    text-align: center;
+}
+
+p {
+    font-size: 25px;
+}
+
+.topicos {
+    background-color: rgb(125, 125, 255); list-style: none;
+    text-align: left; 
+}
+
+li::marker {
+    content: "\1F3B8";
+}
+
+ul {
+    display: inline-block;
+    font-size: 30px;
+    vertical-align: top;
+}
+#image-02 {
+        width: 18%;
+}
+
+footer {
+    background-color: rgb(133, 131, 131);
+}

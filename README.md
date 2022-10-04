@@ -1,2 +1,4 @@
-# turmaM-3tri
-Terça-feira das 14h às 15h40 
+# Grupo-de-estudos---terca
+Turma M - Terça das 14h às 15:40h 🚴:clap:
+:smile:
+## TÍTULO 02
