@@ -3,8 +3,12 @@ body {
     text-align: center;
     }
 
+    nav li {
+        display: inline;
+    }
+
 .topicos2 {
-    background-color: rgb(247, 247, 10);
+    background-color: rgb(81, 81, 240);
 }
 
     #image3 {
